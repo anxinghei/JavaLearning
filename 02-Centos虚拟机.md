@@ -6,6 +6,10 @@
 
 [CentOS7修改默认启动级别](https://www.cnblogs.com/loading4/p/6363131.html)
 
+[Linux常用命令及组件：多线程下载工具Axel或者lftp](https://www.zrblog.net/8237.html)
+
+
+
 # 错误解决
 
 [虚拟机Linux不能上网简单有效的解决办法](https://jingyan.baidu.com/article/6c67b1d68facbb2786bb1e7b.html)
