@@ -17,3 +17,7 @@
 [linux安装lynx报错：No curses header-files found](https://blog.csdn.net/Fai_te/article/details/89681170)
 
 [Centos7 网络报错Job for iptables.service failed because the control process exited with error code.](https://www.cnblogs.com/hill1126/p/10543592.html)
+
+[vmware workstation vmx进程结束不了如何解决？](https://blog.csdn.net/fengy_jav/article/details/104458930)
+
+(文中所说新建虚拟机，并不需要，重新打开你的虚拟机即可。若重启后无法联网，请恢复默认设置，再重新配置 IP)
