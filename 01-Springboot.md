@@ -10,6 +10,8 @@
 
 [springboot 2.0 集成 shiro 和 thymeleaf-extras-shiro 2.0 使用过程遇到的问题](https://blog.csdn.net/linzi19900517/article/details/82254541)
 
+[Shiro系列十一：权限标签](https://blog.csdn.net/lizhiqiang1217/article/details/91129218?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
+
 # logback
 
 [SpringBoot2.0学习笔记：(四) Spring Boot的日志详解](https://blog.csdn.net/liujun03/article/details/82684209)
