@@ -18,5 +18,16 @@
 
 [logback 常用配置详解（二）](https://www.cnblogs.com/yin-jingyu/archive/2011/09/02/2163448.html)
 
+# freemarker
 
+[FreeMarker导出Word](https://blog.csdn.net/weixin_35654814/article/details/81628148)
 
+[Freemarker中如何遍历List](https://blog.csdn.net/fzy629442466/article/details/85770504)
+
+[利用freemarker做html页面静态化](https://blog.csdn.net/jslt_6666/article/details/79854410)
+
+[springboot整合Freemark模板(详尽版)](https://blog.csdn.net/u011197448/article/details/83901306)
+
+[Freemarker提供了3种加载模板目录的方法](https://blog.csdn.net/gtlishujie/article/details/52300381)
+
+[FreeMarker 中文官方参考手册](http://freemarker.foofun.cn/index.html)
