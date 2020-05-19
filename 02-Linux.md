@@ -8,7 +8,13 @@
 
 [Linux常用命令及组件：多线程下载工具Axel或者lftp](https://www.zrblog.net/8237.html)
 
+[linux 创建账户，并添加到sudoers文件中](https://blog.csdn.net/qingtian2002/article/details/60580124)
 
+[telnet提示Escape character is ‘^](https://blog.csdn.net/laobai1015/article/details/100563050)
+
+[LINUX中s和t两个特殊权限及x权限说明](https://blog.csdn.net/jackliu16/article/details/79370043)
+
+[四.linux文件权限](https://cloud.tencent.com/developer/article/1498741)
 
 # 错误解决
 

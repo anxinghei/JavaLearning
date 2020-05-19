@@ -8,7 +8,7 @@
 
 [git教程-蚂蚁部落](https://www.softwhy.com/qiduan/git_course/)
 
-
+[Git - Book](https://git-scm.com/book/en/v2)
 
 # 博客
 
