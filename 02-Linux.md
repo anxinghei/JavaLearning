@@ -16,6 +16,10 @@
 
 [四.linux文件权限](https://cloud.tencent.com/developer/article/1498741)
 
+[Linux下cut命令用法详解](https://blog.csdn.net/heimao0307/article/details/79512397)
+
+[tar打包，解包](https://blog.csdn.net/pyf09/article/details/100672824)
+
 # 错误解决
 
 [虚拟机Linux不能上网简单有效的解决办法](https://jingyan.baidu.com/article/6c67b1d68facbb2786bb1e7b.html)

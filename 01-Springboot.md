@@ -33,3 +33,7 @@
 [Freemarker提供了3种加载模板目录的方法](https://blog.csdn.net/gtlishujie/article/details/52300381)
 
 [FreeMarker 中文官方参考手册](http://freemarker.foofun.cn/index.html)
+
+# 其他
+
+[request、response 中文乱码问题与解决方式](https://blog.csdn.net/w47_csdn/article/details/71739109)
