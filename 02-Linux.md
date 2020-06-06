@@ -2,6 +2,12 @@
 
 # 使用
 
+[Linux中Java和PHP环境搭建](https://blog.csdn.net/qq_42449106/category_9930387.html)
+
+[CentOS7设置ssh服务以及端口修改](https://blog.csdn.net/mrqiang9001/article/details/78308830)
+
+[如何在linux创建定时器](https://jingyan.baidu.com/article/d3b74d6406cac61f77e609b3.html)
+
 [如何查看文件是dos格式还是unix格式的](https://www.cnblogs.com/jiangz/p/4231279.html)
 
 [CentOS7修改默认启动级别](https://www.cnblogs.com/loading4/p/6363131.html)
