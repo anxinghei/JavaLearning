@@ -2,6 +2,8 @@
 
 # 教程
 
+[git系列教程](https://blog.csdn.net/qq_42449106/category_9966773.html)
+
 [Git Community Book 中文版](gitbook.liuhui998.com/index.html)
 
 [Git教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600)
@@ -10,7 +12,7 @@
 
 [Git - Book](https://git-scm.com/book/en/v2)
 
-[git系列教程](https://blog.csdn.net/qq_42449106/category_9966773.html)
+
 
 # 博客
 

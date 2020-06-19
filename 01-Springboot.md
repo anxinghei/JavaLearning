@@ -2,6 +2,8 @@
 
 # shiro
 
+[springboot_shiro系列](https://blog.csdn.net/qq_42449106/category_8963839.html)
+
 [Springboot整合Shiro：简洁的身份认证](https://www.jianshu.com/p/a711961b07db)
 
 [Apache Shiro 权限控制实战，权限控制Demo，SpringMVC + Mybatis + Shiro 项目下载](https://www.sojson.com/shiro#_lib)
